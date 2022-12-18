@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![](https://github.com/RamonaGherasim/RamonaGherasim/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.gif)
 
 <h1 align="center">Hey there 👋, I'm Ramona </h1>
 <h3 align="center">A passionate Junior Software Engineer | QA Automation Tester, living in London</h3>
