@@ -20,13 +20,13 @@ Welcome to my GitHub Profile! ♡     <br/>
 <hr />
 
 
-🌱 I’m currently learning **Python, Django, Selenium, SQL**
+🌱 I’m currently learning: **Python, Django, Selenium, SQL**
 
-📫 How to reach me **gherasim.ramonaa@yahoo.ro**
+📫 How to reach me: **gherasim.ramonaa@yahoo.ro**
 
-⚡ Fun fact **I am proficient in Braille reading and writing!**
+⚡ Fun fact: **I am proficient in Braille reading and writing!**
 
-✿ Pronouns: She/Her
+✿ Pronouns: **She/Her**
 
 
 <hr />
