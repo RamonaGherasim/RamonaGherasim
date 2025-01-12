@@ -22,7 +22,7 @@ Welcome to my GitHub Profile! ♡     <br/>
 
 🌱 I’m currently learning: **Python, Django, Selenium, SQL**
 
-📫 How to reach me: **gherasim.ramonaa@yahoo.ro**
+📫 How to reach me: **gherasimramona27@gmail.com**
 
 ⚡ Fun fact: **I am proficient in Braille reading and writing!**
 
