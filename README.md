@@ -2,7 +2,7 @@
 ![](https://github.com/RamonaGherasim/RamonaGherasim/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.gif)
 
 <h1 align="center">Hey there 👋, I'm Ramona </h1>
-<h3 align="center">A passionate Junior Software Engineer | QA Automation Tester, living in London</h3>
+<h3 align="center">A passionate Software Developer, living in London</h3>
 <h4 align="center">
 ╔═════════════════════════════════╗ <br/>
 Welcome to my GitHub Profile! ♡     <br/> 
